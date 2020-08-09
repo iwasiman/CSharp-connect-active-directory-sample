@@ -1,4 +1,4 @@
-# php-connect-active-directory-sample
+# CSharp-connect-active-directory-sample
 
 C#言語を用いて、Microsoftの技術であるActive Directoryと接続してAD連携する検索処理のサンプル。  
 作成時に .NET Framework4.6, C# 6 で動作確認しました。
